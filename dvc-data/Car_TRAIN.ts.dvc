@@ -1,0 +1,5 @@
+outs:
+- md5: 2e871e85c8a09417f08af5b226c2d0b4
+  size: 380848
+  isexec: true
+  path: Car_TRAIN.ts

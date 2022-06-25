@@ -1,2 +1,3 @@
 # automl-time-series
-Time series analysis using AutoML
+
+Time series classification using MiniROCKET transformation and AutoML Frameworks

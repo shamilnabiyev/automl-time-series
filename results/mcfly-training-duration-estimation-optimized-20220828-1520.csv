@@ -1,5 +1,4 @@
 run_id,experiment_id,metrics.val_accuracy,metrics.test_accuracy,params.runtime_best_model_training,params.runtime_actual_seconds,params.series_length,params.num_channels,params.num_instances,params.num_models_estimated,params.num_epochs,params.runtime_model_tuning,params.dataset_name,params.num_classes
-52e0278cb99642e29d9a7dd1e8861434,1,,,,,,,,,,,,
 974c33dfe1464c729f996b228cd4cd4f,1,0.9450549483299255,0.7987654209136963,742,1172,500,1,3636,8,30,430,FordB,2
 560700158dcb432c86d15f13ae8b6959,1,0.9445214867591858,0.9325757622718811,798,1488,500,1,3601,8,30,690,FordA,2
 9876a4e23b6546c8a898cea54a756c39,1,0.9776536226272583,0.9677996635437012,107,178,40,12,2792,5,30,71,ALFA,2

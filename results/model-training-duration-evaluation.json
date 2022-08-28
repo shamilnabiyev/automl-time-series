@@ -1,0 +1,56 @@
+[
+  {
+    "num_epochs": 30,
+    "num_instances": 2304,
+    "series_length": 500,
+    "num_channels": 1,
+    "runtime_predefined_seconds": 300,
+    "runtime_actual_seconds": 302,
+    "num_models_estimated": 3
+  },
+  {
+    "num_epochs": 30,
+    "num_instances": 38,
+    "series_length": 577,
+    "num_channels": 1,
+    "runtime_predefined_seconds": 180,
+    "runtime_actual_seconds": 213,
+    "num_models_estimated": 6
+  },
+  {
+    "num_epochs": 30,
+    "num_instances": 96,
+    "series_length": 30,
+    "num_channels": 6,
+    "runtime_predefined_seconds": 420,
+    "runtime_actual_seconds": 104,
+    "num_models_estimated": 13
+  },
+  {
+    "num_epochs": 30,
+    "num_instances": 96,
+    "series_length": 30,
+    "num_channels": 6,
+    "runtime_predefined_seconds": 300,
+    "runtime_actual_seconds": 137,
+    "num_models_estimated": 11
+  },
+  {
+    "num_epochs": 30,
+    "num_instances": 172,
+    "series_length": 65,
+    "num_channels": 4,
+    "runtime_predefined_seconds": 600,
+    "runtime_actual_seconds": 208,
+    "num_models_estimated": 15
+  },
+  {
+    "num_epochs": 30,
+    "num_instances": 2880,
+    "series_length": 500,
+    "num_channels": 1,
+    "runtime_predefined_seconds": 180,
+    "runtime_actual_seconds": 81,
+    "num_models_estimated": 3
+  }
+]

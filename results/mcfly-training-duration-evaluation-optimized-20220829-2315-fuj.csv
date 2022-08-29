@@ -1,5 +1,6 @@
 run_id,experiment_id,metrics.test_accuracy,metrics.val_accuracy,params.dataset_name,params.runtime_model_tuning,params.series_length,params.runtime_actual_seconds,params.runtime_userdefined_seconds,params.num_channels,params.runtime_best_model_training,params.num_classes,params.num_instances,params.num_epochs,params.num_models_estimated
-225c19343c9744519bb63cdd8e20e039,12,,,,,,,,,,,,,
+15bb2b880b154dfe8fc096d429cd466e,12,0.22163480520248413,0.20366598665714264,LSST,219,36,293,1260,6,74,13,2452,30,11
+225c19343c9744519bb63cdd8e20e039,12,0.3387555778026581,0.34215885400772095,LSST,176,36,249,780,6,73,13,2452,30,10
 508ed6482bce498a93764b08984ba06d,12,0.29483529925346375,0.2912423610687256,LSST,175,36,232,480,6,57,13,2452,30,9
 43e0a9d1446647068ecd8815b80226d2,12,0.2248881608247757,0.23014256358146667,LSST,74,36,98,300,6,24,13,2452,30,9
 1cb94ab619e8487baa62c0013a3eac73,12,0.1960146427154541,0.1792260706424713,LSST,156,36,219,180,6,63,13,2452,30,9

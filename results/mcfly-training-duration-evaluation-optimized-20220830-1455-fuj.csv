@@ -1,4 +1,6 @@
 run_id,experiment_id,metrics.test_accuracy,metrics.val_accuracy,params.dataset_name,params.runtime_model_tuning,params.series_length,params.runtime_actual_seconds,params.runtime_userdefined_seconds,params.num_channels,params.runtime_best_model_training,params.num_classes,params.num_instances,params.num_epochs,params.num_models_estimated
+b5e573c59d674e3e93fe99ec33c7576e,12,0.16226108372211456,0.1547861546278,LSST,195,36,310,1380,6,115,13,2452,30,12
+3244474122494dbf84a7febb02fdc808,12,0.6410256624221802,0.699999988079071,PhalangesOutlinesCorrect,193,80,467,1380,1,274,2,1800,30,10
 6cf427582e034250a96a10e3c112f8c3,12,0.8531249761581421,0.9166666865348816,UWaveGestureLibrary,1563,315,1573,1380,3,10,8,120,30,10
 d10da89cfae747e0b5fa5ec95c23d412,12,0.3243243098258972,0.34375,HandMovementDirection,546,400,619,1380,10,73,4,160,30,10
 537215da1280458f8b4afd18ab17a327,12,0.9133333563804626,1.0,SmoothSubspace,126,15,130,1380,1,4,3,150,30,11
